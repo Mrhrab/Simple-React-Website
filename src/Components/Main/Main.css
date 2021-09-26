@@ -1,0 +1,19 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.cart-container{
+    padding: 20px;
+    margin: 100px 40px 50px 80px;
+    border-left: 1px solid lightgray;
+}
+.button-cart{
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    color: rgb(255, 0, 255);
+    font-weight: bold;
+}
+.button-cart:hover{
+     background-color: lightsteelblue;
+}

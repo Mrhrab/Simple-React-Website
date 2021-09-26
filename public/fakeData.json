@@ -1,0 +1,893 @@
+[
+  {
+    "_id": "61503bf7592b63db1f72025e",
+    "picture": "https://t4.ftcdn.net/jpg/01/18/56/33/240_F_118563340_AHvUrQBDWokoLHQpbyjCoxbX41GGYMRZ.jpg",
+    "workHours": 29,
+    "name": "Phillips Nunez",
+    "email": "phillipsnunez@manglo.com",
+    "phone": "+1 (960) 407-2586",
+    "tags": [
+      "irure",
+      "consectetur",
+      "deserunt",
+      "ullamco",
+      "ipsum",
+      "voluptate",
+      "ex"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Best Blankenship"
+      },
+      {
+        "id": 4,
+        "name": "Sampson Morrison"
+      },
+      {
+        "id": 5,
+        "name": "Sue Hogan"
+      },
+      {
+        "id": 6,
+        "name": "Pamela Macdonald"
+      },
+      {
+        "id": 7,
+        "name": "Barry Cortez"
+      },
+      {
+        "id": 8,
+        "name": "Tammy Whitehead"
+      },
+      {
+        "id": 9,
+        "name": "Shelly Stafford"
+      },
+      {
+        "id": 10,
+        "name": "Shari Bailey"
+      },
+      {
+        "id": 11,
+        "name": "Latoya Bishop"
+      },
+      {
+        "id": 12,
+        "name": "Walls Joyner"
+      },
+      {
+        "id": 13,
+        "name": "Joseph Brewer"
+      },
+      {
+        "id": 14,
+        "name": "Marietta Cohen"
+      },
+      {
+        "id": 15,
+        "name": "Sherman Robles"
+      },
+      {
+        "id": 16,
+        "name": "Terrie Woodard"
+      },
+      {
+        "id": 17,
+        "name": "Griffith Stuart"
+      }
+    ],
+    "greeting": "Hello, I am Phillips Nunez! wish to work with you soon",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "61503bf77765269c68119768",
+    "picture": "https://www.techrepublic.com/a/hub/i/r/2018/03/26/4414c1a0-66c8-48db-85a1-9323a5eb1a05/thumbnail/770x578/96ee9fc35d19ea2ff9ff65cc42679415/istock-847207344.jpg",
+    "workHours": 23,
+    "name": "Cecile Richmond",
+    "email": "cecilerichmond@manglo.com",
+    "phone": "+1 (883) 492-3036",
+    "tags": [
+      "sunt",
+      "occaecat",
+      "commodo",
+      "veniam",
+      "sunt",
+      "in",
+      "reprehenderit"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Wilkinson Foster"
+      },
+      {
+        "id": 4,
+        "name": "Lora Carey"
+      },
+      {
+        "id": 5,
+        "name": "Blanchard Leblanc"
+      },
+      {
+        "id": 6,
+        "name": "Mandy Franco"
+      },
+      {
+        "id": 7,
+        "name": "Marci Owens"
+      },
+      {
+        "id": 8,
+        "name": "Moses Bolton"
+      },
+      {
+        "id": 9,
+        "name": "Wallace Dawson"
+      },
+      {
+        "id": 10,
+        "name": "Frances Howard"
+      },
+      {
+        "id": 11,
+        "name": "Dora Wagner"
+      },
+      {
+        "id": 12,
+        "name": "Glenda Griffin"
+      },
+      {
+        "id": 13,
+        "name": "Julie Lowery"
+      },
+      {
+        "id": 14,
+        "name": "Richardson Osborne"
+      },
+      {
+        "id": 15,
+        "name": "Shelia Travis"
+      },
+      {
+        "id": 16,
+        "name": "Ashlee Beasley"
+      },
+      {
+        "id": 17,
+        "name": "Calhoun Lucas"
+      }
+    ],
+    "greeting": "Hello, I am  Cecile Richmond! See yaa.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "61503bf7086e67b913ea86eb",
+    "picture": "https://th.bing.com/th/id/R.19f92542b222d327e3218e7838f6b1d7?rik=DeQxA4nap8fOfQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f_Zs-x3zVJXEs%2fTLdGzwSE3_I%2fAAAAAAAAKno%2fP30k96bydOk%2fs1600%2fH-0.jpg&ehk=TG6j61BditMesTn5JuQbT4Nj%2bqswZ%2bo7z0TaeRt4Wnk%3d&risl=&pid=ImgRaw&r=0",
+    "workHours": 39,
+    "name": "Crosby Martin",
+    "email": "crosbymartin@manglo.com",
+    "phone": "+1 (879) 587-2194",
+    "tags": [
+      "minim",
+      "pariatur",
+      "et",
+      "irure",
+      "cillum",
+      "aliquip",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Jordan Ross"
+      },
+      {
+        "id": 4,
+        "name": "Jimenez Reid"
+      },
+      {
+        "id": 5,
+        "name": "Gilmore Hickman"
+      },
+      {
+        "id": 6,
+        "name": "Webb Barton"
+      },
+      {
+        "id": 7,
+        "name": "Augusta Casey"
+      },
+      {
+        "id": 8,
+        "name": "Cohen Golden"
+      },
+      {
+        "id": 9,
+        "name": "Nielsen Rush"
+      },
+      {
+        "id": 10,
+        "name": "Yates Fleming"
+      },
+      {
+        "id": 11,
+        "name": "Nichole Middleton"
+      },
+      {
+        "id": 12,
+        "name": "Riddle Callahan"
+      },
+      {
+        "id": 13,
+        "name": "Sawyer Blanchard"
+      },
+      {
+        "id": 14,
+        "name": "Vazquez Robbins"
+      },
+      {
+        "id": 15,
+        "name": "Stephenson Booth"
+      },
+      {
+        "id": 16,
+        "name": "Corrine Mayo"
+      },
+      {
+        "id": 17,
+        "name": "Eliza Cline"
+      }
+    ],
+    "greeting": "Hello, I am  Crosby Martin! How are you?.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "61503bf76b345eb6f061324b",
+    "picture": "https://th.bing.com/th/id/OIP.lul6D_WsupIwibVL_ouV9gHaE8?pid=ImgDet&rs=1",
+    "workHours": 39,
+    "name": "Haley Pacheco",
+    "email": "haleypacheco@manglo.com",
+    "phone": "+1 (872) 504-2516",
+    "tags": [
+      "minim",
+      "elit",
+      "veniam",
+      "excepteur",
+      "sunt",
+      "irure",
+      "ea"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Sears Dejesus"
+      },
+      {
+        "id": 4,
+        "name": "Clark Snider"
+      },
+      {
+        "id": 5,
+        "name": "Ortiz Oneal"
+      },
+      {
+        "id": 6,
+        "name": "Levine Clements"
+      },
+      {
+        "id": 7,
+        "name": "Holly Kramer"
+      },
+      {
+        "id": 8,
+        "name": "Cox Charles"
+      },
+      {
+        "id": 9,
+        "name": "Angelina Bradley"
+      },
+      {
+        "id": 10,
+        "name": "Lillian Brady"
+      },
+      {
+        "id": 11,
+        "name": "Alma Ferguson"
+      },
+      {
+        "id": 12,
+        "name": "Juliana Cobb"
+      },
+      {
+        "id": 13,
+        "name": "Velma Rodriguez"
+      },
+      {
+        "id": 14,
+        "name": "Adams Norton"
+      },
+      {
+        "id": 15,
+        "name": "Nunez Lyons"
+      },
+      {
+        "id": 16,
+        "name": "Shelley Foreman"
+      },
+      {
+        "id": 17,
+        "name": "Carrillo Cherry"
+      }
+    ],
+    "greeting": "Hello, I am  Haley Pacheco! Getting started with work everyday.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "61503bf77bd1773dada356fc",
+    "picture": "https://i.pinimg.com/736x/b2/2a/8e/b22a8e0ddd33fc6575ffafe15e4b40f2.jpg",
+    "workHours": 40,
+    "name": "Petty Parker",
+    "email": "pettyparker@manglo.com",
+    "phone": "+1 (958) 554-2406",
+    "tags": [
+      "dolore",
+      "minim",
+      "ut",
+      "pariatur",
+      "et",
+      "incididunt",
+      "est"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Shanna Sexton"
+      },
+      {
+        "id": 4,
+        "name": "Bradford Alford"
+      },
+      {
+        "id": 5,
+        "name": "Myrna Leach"
+      },
+      {
+        "id": 6,
+        "name": "Hollie Parks"
+      },
+      {
+        "id": 7,
+        "name": "Salinas Weeks"
+      },
+      {
+        "id": 8,
+        "name": "Perry Lancaster"
+      },
+      {
+        "id": 9,
+        "name": "Higgins Malone"
+      },
+      {
+        "id": 10,
+        "name": "Palmer Cox"
+      },
+      {
+        "id": 11,
+        "name": "Harding Walton"
+      },
+      {
+        "id": 12,
+        "name": "Lola Gilliam"
+      },
+      {
+        "id": 13,
+        "name": "Cooper Holmes"
+      },
+      {
+        "id": 14,
+        "name": "Snyder Tillman"
+      },
+      {
+        "id": 15,
+        "name": "Mccarty Acosta"
+      },
+      {
+        "id": 16,
+        "name": "Brittany Wolf"
+      },
+      {
+        "id": 17,
+        "name": "Buchanan Stephens"
+      }
+    ],
+    "greeting": "Hello, I am  Petty Parker! Work hard as much possible.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "61503bf7a9dd855878245c1d",
+    "picture": "https://www.identitymaestro.com/wp-content/uploads/2018/06/IDM-for-Help-Desk-visual.jpg",
+    "workHours": 29,
+    "name": "Nell Maynard",
+    "email": "nellmaynard@manglo.com",
+    "phone": "+1 (878) 520-3557",
+    "tags": [
+      "culpa",
+      "cupidatat",
+      "tempor",
+      "anim",
+      "velit",
+      "proident",
+      "nulla"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Richard Espinoza"
+      },
+      {
+        "id": 4,
+        "name": "Leticia Dickerson"
+      },
+      {
+        "id": 5,
+        "name": "Douglas Roy"
+      },
+      {
+        "id": 6,
+        "name": "Berger Alexander"
+      },
+      {
+        "id": 7,
+        "name": "Kitty Patton"
+      },
+      {
+        "id": 8,
+        "name": "Kris Winters"
+      },
+      {
+        "id": 9,
+        "name": "Penelope Conley"
+      },
+      {
+        "id": 10,
+        "name": "Monroe Wade"
+      },
+      {
+        "id": 11,
+        "name": "Chrystal Ortiz"
+      },
+      {
+        "id": 12,
+        "name": "Stone Hess"
+      },
+      {
+        "id": 13,
+        "name": "Chandler Collins"
+      },
+      {
+        "id": 14,
+        "name": "Evans Levy"
+      },
+      {
+        "id": 15,
+        "name": "Lowery Hood"
+      },
+      {
+        "id": 16,
+        "name": "Winnie Boyer"
+      },
+      {
+        "id": 17,
+        "name": "Mercedes Mckay"
+      }
+    ],
+    "greeting": "Hello, I am  Nell Maynard! DOn't try to be my boss.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "61503bf7f71493428136e63f",
+    "picture": "https://www.techwayplacements.com/assets/images/service-single/discipline-img-4.jpg",
+    "workHours": 29,
+    "name": "Celia Buckner",
+    "email": "celiabuckner@manglo.com",
+    "phone": "+1 (975) 418-3108",
+    "tags": [
+      "esse",
+      "est",
+      "commodo",
+      "ad",
+      "quis",
+      "laboris",
+      "reprehenderit"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Gordon Tyson"
+      },
+      {
+        "id": 4,
+        "name": "Owens Ware"
+      },
+      {
+        "id": 5,
+        "name": "Shawn Williams"
+      },
+      {
+        "id": 6,
+        "name": "Paul Ewing"
+      },
+      {
+        "id": 7,
+        "name": "Noreen Kemp"
+      },
+      {
+        "id": 8,
+        "name": "Jayne Rivers"
+      },
+      {
+        "id": 9,
+        "name": "Griffin Nixon"
+      },
+      {
+        "id": 10,
+        "name": "Benton Briggs"
+      },
+      {
+        "id": 11,
+        "name": "Rosalinda Lynn"
+      },
+      {
+        "id": 12,
+        "name": "Janet Vaughn"
+      },
+      {
+        "id": 13,
+        "name": "Luisa Holcomb"
+      },
+      {
+        "id": 14,
+        "name": "Karina Moses"
+      },
+      {
+        "id": 15,
+        "name": "Dorsey Dennis"
+      },
+      {
+        "id": 16,
+        "name": "Cooke Peters"
+      },
+      {
+        "id": 17,
+        "name": "Eula Hebert"
+      }
+    ],
+    "greeting": "Hello, I am  Celia Buckner! I don't waste time.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "61503bf7fae77a29c2b333c7",
+    "picture": "https://static.vocanto.com/images/modern/landingpage/home/slider/Landingpage-05.jpg?v=4503",
+    "workHours": 29,
+    "name": "Bridgette Robinson",
+    "email": "bridgetterobinson@manglo.com",
+    "phone": "+1 (865) 433-3505",
+    "tags": [
+      "reprehenderit",
+      "reprehenderit",
+      "ea",
+      "dolor",
+      "pariatur",
+      "sunt",
+      "pariatur"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Tamra Houston"
+      },
+      {
+        "id": 4,
+        "name": "Maura Cote"
+      },
+      {
+        "id": 5,
+        "name": "Mari Morin"
+      },
+      {
+        "id": 6,
+        "name": "Maria Mccarthy"
+      },
+      {
+        "id": 7,
+        "name": "Keller Black"
+      },
+      {
+        "id": 8,
+        "name": "Yvette Smith"
+      },
+      {
+        "id": 9,
+        "name": "Mathis Gutierrez"
+      },
+      {
+        "id": 10,
+        "name": "Pearl Sullivan"
+      },
+      {
+        "id": 11,
+        "name": "Anna Pennington"
+      },
+      {
+        "id": 12,
+        "name": "Lolita Sanford"
+      },
+      {
+        "id": 13,
+        "name": "Rich Guthrie"
+      },
+      {
+        "id": 14,
+        "name": "Mejia Dixon"
+      },
+      {
+        "id": 15,
+        "name": "Kristen Gaines"
+      },
+      {
+        "id": 16,
+        "name": "Liliana Tate"
+      },
+      {
+        "id": 17,
+        "name": "Heidi Flores"
+      }
+    ],
+    "greeting": "Hello, I am  Bridgette Robinson! life is short. so, lets work together",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "61503bf7b4613df1dfa913b9",
+    "picture": "https://thumbs.dreamstime.com/b/young-technician-repairing-computer-workshop-young-technician-repairing-computer-workshop-120080138.jpg",
+    "workHours": 33,
+    "name": "Lena Donaldson",
+    "email": "lenadonaldson@manglo.com",
+    "phone": "+1 (832) 533-3203",
+    "tags": [
+      "in",
+      "occaecat",
+      "esse",
+      "sunt",
+      "adipisicing",
+      "duis",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Rena Fischer"
+      },
+      {
+        "id": 4,
+        "name": "Hurst Holden"
+      },
+      {
+        "id": 5,
+        "name": "Terry Justice"
+      },
+      {
+        "id": 6,
+        "name": "Henderson Baldwin"
+      },
+      {
+        "id": 7,
+        "name": "Nora Sandoval"
+      },
+      {
+        "id": 8,
+        "name": "Freida Yang"
+      },
+      {
+        "id": 9,
+        "name": "Reeves Chaney"
+      },
+      {
+        "id": 10,
+        "name": "Georgina Dotson"
+      },
+      {
+        "id": 11,
+        "name": "Stella Davis"
+      },
+      {
+        "id": 12,
+        "name": "Kathleen Mccarty"
+      },
+      {
+        "id": 13,
+        "name": "Willis Hyde"
+      },
+      {
+        "id": 14,
+        "name": "Bridget Shannon"
+      },
+      {
+        "id": 15,
+        "name": "Mercer Maxwell"
+      },
+      {
+        "id": 16,
+        "name": "Oconnor Love"
+      },
+      {
+        "id": 17,
+        "name": "Foley Miranda"
+      }
+    ],
+    "greeting": "Hello, I am  Lena Donaldson! I will love to work with you project.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "61503bf7d3118bb9e6c92f62",
+    "picture": "https://th.bing.com/th/id/R.50455e10378234b45d8018a44eb7943b?rik=XL%2f6gYgpC19fYQ&pid=ImgRaw&r=0",
+    "workHours": 28,
+    "name": "Beverley Swanson",
+    "email": "beverleyswanson@manglo.com",
+    "phone": "+1 (933) 452-3765",
+    "tags": [
+      "nulla",
+      "nostrud",
+      "commodo",
+      "sunt",
+      "sit",
+      "do",
+      "veniam"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Lynette Johnson"
+      },
+      {
+        "id": 4,
+        "name": "Annie Avila"
+      },
+      {
+        "id": 5,
+        "name": "Hobbs Page"
+      },
+      {
+        "id": 6,
+        "name": "Trevino Blevins"
+      },
+      {
+        "id": 7,
+        "name": "Katy Shields"
+      },
+      {
+        "id": 8,
+        "name": "Tiffany Cochran"
+      },
+      {
+        "id": 9,
+        "name": "Head Mcdowell"
+      },
+      {
+        "id": 10,
+        "name": "Lauri Walsh"
+      },
+      {
+        "id": 11,
+        "name": "Kathryn Peck"
+      },
+      {
+        "id": 12,
+        "name": "Carlene Lamb"
+      },
+      {
+        "id": 13,
+        "name": "Mcconnell Oneil"
+      },
+      {
+        "id": 14,
+        "name": "Beach George"
+      },
+      {
+        "id": 15,
+        "name": "Ester Kent"
+      },
+      {
+        "id": 16,
+        "name": "Hartman Mason"
+      },
+      {
+        "id": 17,
+        "name": "Andrea Manning"
+      }
+    ],
+    "greeting": "Hello, I am  Beverley Swanson! Im more hardworking than you think.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "61503bf77715cf8c342b4805",
+    "picture": "https://th.bing.com/th/id/R.423fc6dcda759affefbaf78f844cf417?rik=%2bkH0nNeRcQayuA&riu=http%3a%2f%2fimages.huffingtonpost.com%2f2016-11-03-1478193304-6800403-webdev.jpg&ehk=5Jb9iqvbsXLgXeAXd1leZvaqG7Cgf4UISU2zxM%2fFdF8%3d&risl=&pid=ImgRaw&r=0",
+    "workHours": 21,
+    "name": "Phyllis Richardson",
+    "email": "phyllisrichardson@manglo.com",
+    "phone": "+1 (848) 444-3839",
+    "tags": [
+      "irure",
+      "occaecat",
+      "laborum",
+      "Lorem",
+      "fugiat",
+      "incididunt",
+      "exercitation"
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Pam Kline"
+      },
+      {
+        "id": 4,
+        "name": "Keri Wilkerson"
+      },
+      {
+        "id": 5,
+        "name": "Mcdonald Fulton"
+      },
+      {
+        "id": 6,
+        "name": "Arline Haney"
+      },
+      {
+        "id": 7,
+        "name": "Bass Christian"
+      },
+      {
+        "id": 8,
+        "name": "Odonnell Jordan"
+      },
+      {
+        "id": 9,
+        "name": "Michael Allen"
+      },
+      {
+        "id": 10,
+        "name": "Santos Monroe"
+      },
+      {
+        "id": 11,
+        "name": "Norma Bass"
+      },
+      {
+        "id": 12,
+        "name": "Eleanor Key"
+      },
+      {
+        "id": 13,
+        "name": "Landry Everett"
+      },
+      {
+        "id": 14,
+        "name": "Tracy Cleveland"
+      },
+      {
+        "id": 15,
+        "name": "Olive Cook"
+      },
+      {
+        "id": 16,
+        "name": "Austin Hunter"
+      },
+      {
+        "id": 17,
+        "name": "Holden Barber"
+      }
+    ],
+    "greeting": "Hello, I am  Phyllis Richardson! You will not regret hiring me ",
+    "favoriteFruit": "banana"
+  }
+]
